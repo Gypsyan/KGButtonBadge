@@ -42,6 +42,9 @@
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="0.48026315790000002" green="1" blue="1" alpha="0.46951541385135137" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="eM9-KI-Dji" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="5Nk-Vx-iAb"/>
+                        </constraints>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
