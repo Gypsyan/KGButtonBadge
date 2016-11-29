@@ -22,7 +22,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eM9-KI-Dji" customClass="KGButtonBadge" customModule="KGButtonBadge">
-                                <rect key="frame" x="154" y="102" width="100" height="100"/>
+                                <rect key="frame" x="137" y="202" width="100" height="100"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.69902426949999996" green="0.14541671619999999" blue="0.31608446569999998" alpha="1" colorSpace="deviceRGB"/>
                                 <state key="normal" title="Button"/>
