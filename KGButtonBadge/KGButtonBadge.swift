@@ -45,7 +45,6 @@ open class KGButtonBadge: UIButton {
     override public init(frame: CGRect) {
         badgeIcon = UILabel()
         super.init(frame: frame)
-        // Initialization code
         setupBadgeViewWithString(badgeText: "")
     }
     
